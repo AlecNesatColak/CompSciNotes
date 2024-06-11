@@ -1,0 +1,34 @@
+main() is the entry point for Java 
+
+public class <ClassName>
+    public static void main(String[] args){
+        System.out.println("Hello World);
+    }
+}
+
+Input/Output utilizes Scanner with System.in/System.out
+
+import java.util.Scanner --imports the Scanner
+
+Scanner <scannerName> = new Scanner(System.in);
+
+
+<datatype> <VariableName> = scanner.next() --reads from the scanner
+
+
+Escape Sequences
+\t -- insert a tab
+\n -- insert a newline
+\' -- insert a single quote
+\" -- insert a double qoute
+\\ -- insert a backslash
+
+
+Citing Code
+/*********************************
+*   Title: 
+*   Author: 
+*   Date:
+*   Code Version:
+*   Availability:
+**********************************/
